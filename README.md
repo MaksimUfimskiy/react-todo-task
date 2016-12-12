@@ -1,6 +1,6 @@
 # Task Specification
 
-## First steps
+## Setup a Project
 
 * Clone repository
 * cd to project folder
